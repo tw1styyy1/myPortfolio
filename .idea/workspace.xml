@@ -7,7 +7,7 @@
       <change afterPath="$PROJECT_DIR$/../PHP/css/second.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PHP/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PHP/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../site1/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../site1/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../site1/.idea/modules.xml" afterDir="false" />
@@ -16,6 +16,10 @@
       <change afterPath="$PROJECT_DIR$/../site1/css/main.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../site1/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../site1/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,15 +31,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QHqht8vkD6ivR58xuY18PXwpF4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -62,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567437991018</updated>
-      <workItem from="1567437992393" duration="28000" />
+      <workItem from="1567437992393" duration="4580000" />
     </task>
     <servers />
   </component>
