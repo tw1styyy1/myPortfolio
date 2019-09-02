@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ff5629c-14bf-4d67-8f67-59cba87d3cac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../PHP/.idea/PHP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/css/second.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site1/.idea/site1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site1/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../site1/js/main.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1QHqht8vkD6ivR58xuY18PXwpF4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ff5629c-14bf-4d67-8f67-59cba87d3cac" name="Default Changelist" comment="" />
+      <created>1567437991018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567437991018</updated>
+      <workItem from="1567437992393" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
