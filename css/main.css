@@ -12,7 +12,18 @@ ul,li{
     padding-top: 45px;
 }
 
-.logo{}
+.logo{
+    background-color: #3fbed9;
+    text-align: center;
+    width: 73px;
+    height: 73px;
+    border: 0;
+    border-radius: 100%;
+    color: black;
+    display: block;
+    font-size: 50px;
+    font-family: 'Indie Flower', cursive;
+}
 
 .logo__img{}
 
@@ -36,16 +47,29 @@ ul,li{
     margin-top: 25px;
 }
 
+.contacts__name{
+    margin-top: 2px;
+    color: #ffffff;
+}
+
 .contacts__number{
+    margin-top: -26px;
+    margin-left: 50px ;
     text-transform: uppercase;
     color: #ffffff;
 }
 
+.contacts__vk{
+    width: 50px;
+    height: 50px;
+}
+
 .portfolio{
-    padding-top: 130px;
+    padding-top: 180px;
 }
 
 .port{
+    width: 500px;
 }
 
 .port__title{
@@ -55,7 +79,7 @@ ul,li{
 }
 
 .port__skills{
-    margin-top: 80px;
+    margin-top: 30px;
     color: #faf04b;
     font-family: 'Indie Flower', cursive;
     font-size: 35px;
@@ -71,6 +95,7 @@ ul,li{
 
 .port__button{
     margin-top: 43px;
+    font-size: 32px;
     font-family: 'Indie Flower', cursive;
     background-color: #faf04b;
     height: 50px;
@@ -78,3 +103,7 @@ ul,li{
     border-radius: 10px;
     border: 0;
 }
+
+.block{}
+
+.block__img{}
