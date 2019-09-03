@@ -8,6 +8,15 @@ ul,li{
     margin: 0;
 }
 
+a{
+    text-decoration: none !important;
+}
+
+.border_menu{
+    border-top: #2918f5 1px solid;
+    border-bottom: #2918f5 1px solid;
+}
+
 .header{
     padding-top: 45px;
 }
@@ -44,7 +53,7 @@ ul,li{
 }
 
 .contacts{
-    margin-top: 25px;
+    margin-top: 15px;
 }
 
 .contacts__name{
@@ -65,7 +74,7 @@ ul,li{
 }
 
 .portfolio{
-    padding-top: 180px;
+    padding-top: 200px;
 }
 
 .port{
